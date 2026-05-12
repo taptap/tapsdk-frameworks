@@ -13180,882 +13180,882 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleResponses.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleResponses.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleSDK.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 363,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapBattleRouterPath.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapBattleRouterPath.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 29,
       "value": "\"TapTapSDK\/SetInitialOptions\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapBattleRouterPath.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapBattleRouterPath.swift",
       "kind": "StringLiteral",
       "offset": 330,
       "length": 19,
       "value": "\"TapTapSDK\/SendRnd\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
       "kind": "BooleanLiteral",
       "offset": 1270,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
       "kind": "BooleanLiteral",
       "offset": 2095,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
       "kind": "BooleanLiteral",
       "offset": 8851,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
       "kind": "StringLiteral",
       "offset": 9969,
       "length": 47,
       "value": "\"🔧 Battle static initialization starting...\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
       "kind": "StringLiteral",
       "offset": 10045,
       "length": 83,
       "value": "\"🔍 Battle Swift TapSDKMediator class: \""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
       "kind": "StringLiteral",
       "offset": 10127,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/TapTapBattle.swift",
       "kind": "StringLiteral",
       "offset": 10236,
       "length": 44,
       "value": "\"✅ Battle static initialization completed\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 349,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 835,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 861,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 1364,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 1390,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 1413,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "IntegerLiteral",
       "offset": 2031,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "IntegerLiteral",
       "offset": 2048,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 2071,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "IntegerLiteral",
       "offset": 2479,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "Array",
       "offset": 2511,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 3601,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "IntegerLiteral",
       "offset": 3626,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "IntegerLiteral",
       "offset": 3644,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 4851,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "IntegerLiteral",
       "offset": 4869,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 5183,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 5208,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 5562,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 6025,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 6043,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 6351,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleNotifications.swift",
       "kind": "StringLiteral",
       "offset": 6374,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 310,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 336,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 1630,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "IntegerLiteral",
       "offset": 1648,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "IntegerLiteral",
       "offset": 1664,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 1982,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 2375,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 2406,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 2690,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "StringLiteral",
       "offset": 3212,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "IntegerLiteral",
       "offset": 3228,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleRequests.swift",
       "kind": "Array",
       "offset": 3253,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "IntegerLiteral",
       "offset": 737,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "StringLiteral",
       "offset": 889,
       "length": 28,
       "value": "\"com.taptap.battle.callback\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 1055,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 4702,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 4775,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 4848,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 4919,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 4994,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5063,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5134,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5235,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5344,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5437,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5518,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5599,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5678,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5759,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Dictionary",
       "offset": 5846,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "Array",
       "offset": 6024,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleManager.swift",
       "kind": "BooleanLiteral",
       "offset": 9819,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 208,
       "length": 3,
       "value": "101"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 261,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 361,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 431,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 550,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 695,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 783,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 840,
       "length": 2,
       "value": "11"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 910,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 975,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1052,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1154,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1235,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1309,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1379,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1457,
       "length": 2,
       "value": "19"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1513,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1594,
       "length": 2,
       "value": "21"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1671,
       "length": 2,
       "value": "22"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1735,
       "length": 2,
       "value": "23"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1791,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1875,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1963,
       "length": 2,
       "value": "26"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2057,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2161,
       "length": 2,
       "value": "29"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2219,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 4457,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 4474,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
       "kind": "StringLiteral",
       "offset": 285,
       "length": 11,
       "value": "\"func_name\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
       "kind": "StringLiteral",
       "offset": 335,
       "length": 12,
       "value": "\"session_id\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
       "kind": "StringLiteral",
       "offset": 386,
       "length": 12,
       "value": "\"error_code\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
       "kind": "StringLiteral",
       "offset": 436,
       "length": 11,
       "value": "\"error_msg\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
       "kind": "Dictionary",
       "offset": 902,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
       "kind": "Dictionary",
       "offset": 1464,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/BattleTracker.swift",
       "kind": "Dictionary",
       "offset": 2097,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 266,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "IntegerLiteral",
       "offset": 876,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 894,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "Dictionary",
       "offset": 930,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 950,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 981,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "IntegerLiteral",
       "offset": 1570,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 1601,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 2124,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "IntegerLiteral",
       "offset": 2142,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 3060,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 3100,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 3122,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "IntegerLiteral",
       "offset": 3201,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "Array",
       "offset": 3228,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 3253,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 4032,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "IntegerLiteral",
       "offset": 4112,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "IntegerLiteral",
       "offset": 4134,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 4158,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 4722,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 4741,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapBattle\/Public\/Model\/BattleModels.swift",
       "kind": "StringLiteral",
       "offset": 4765,
       "length": 2,

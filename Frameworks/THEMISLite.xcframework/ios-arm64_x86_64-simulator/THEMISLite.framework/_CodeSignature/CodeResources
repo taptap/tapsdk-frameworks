@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.gitignore</key>
+		<data>
+		QAa3nFYLNrHPVKYcU3PsXJibC9I=
+		</data>
 		<key>Headers/THEMISLite.h</key>
 		<data>
-		79rG8Qyrbxw7xf9Z698SDllLPYY=
+		OnQrBFwdYqSEMNVrjpHI3iWmzRw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zc2JfF9vg7OMrUQcXwYiS5z1xHc=
+		D+oCKQT+MJdT03hW50kOb/GMIWY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,15 +27,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>.gitignore</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QAa3nFYLNrHPVKYcU3PsXJibC9I=
+			</data>
+			<key>hash2</key>
+			<data>
+			QGx4NznNtvCt7KCaYtke+U01ybpavaA3S9IU7hKxiCw=
+			</data>
+		</dict>
 		<key>Headers/THEMISLite.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			79rG8Qyrbxw7xf9Z698SDllLPYY=
+			OnQrBFwdYqSEMNVrjpHI3iWmzRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			EEDr+r++0GJZXCYVkOHY4jwMfseasgALz1JvHlUTz+A=
+			9uKiWWQmGlsBIh1TBVR2d+BI0HuHLT7G/1ZwE46ruTA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

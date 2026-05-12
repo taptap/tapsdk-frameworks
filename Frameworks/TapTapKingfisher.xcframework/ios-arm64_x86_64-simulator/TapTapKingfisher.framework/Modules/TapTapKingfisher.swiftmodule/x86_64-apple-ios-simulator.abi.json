@@ -45469,1043 +45469,1043 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/CacheSerializer.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/CacheSerializer.swift",
       "kind": "FloatLiteral",
       "offset": 3111,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/CacheSerializer.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/CacheSerializer.swift",
       "kind": "BooleanLiteral",
       "offset": 3429,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
       "kind": "StringLiteral",
       "offset": 2418,
       "length": 48,
       "value": "\"com.tapsdk.Kingfisher.maybeCachedCheckingQueue\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
       "kind": "BooleanLiteral",
       "offset": 2666,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
       "kind": "IntegerLiteral",
       "offset": 18555,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
       "kind": "BooleanLiteral",
       "offset": 18938,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
       "kind": "BooleanLiteral",
       "offset": 19192,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/DiskStorage.swift",
       "kind": "BooleanLiteral",
       "offset": 19486,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/FormatIndicatedCacheSerializer.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/FormatIndicatedCacheSerializer.swift",
       "kind": "FloatLiteral",
       "offset": 3276,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "StringLiteral",
       "offset": 2028,
       "length": 51,
       "value": "\"com.tapsdk.Kingfisher.KingfisherDidCleanDiskCache\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "StringLiteral",
       "offset": 2227,
       "length": 35,
       "value": "\"com.tapsdk.Kingfisher.cleanedHash\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "StringLiteral",
       "offset": 5738,
       "length": 9,
       "value": "\"default\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "BooleanLiteral",
       "offset": 12438,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "StringLiteral",
       "offset": 16165,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "BooleanLiteral",
       "offset": 16306,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "StringLiteral",
       "offset": 17202,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "StringLiteral",
       "offset": 17823,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "StringLiteral",
       "offset": 19976,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "BooleanLiteral",
       "offset": 20025,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/ImageCache.swift",
       "kind": "BooleanLiteral",
       "offset": 20074,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/MemoryStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/MemoryStorage.swift",
       "kind": "IntegerLiteral",
       "offset": 8545,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/MemoryStorage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/MemoryStorage.swift",
       "kind": "IntegerLiteral",
       "offset": 9278,
       "length": 3,
       "value": "120"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
       "kind": "IntegerLiteral",
       "offset": 1340,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
       "kind": "IntegerLiteral",
       "offset": 1377,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
       "kind": "IntegerLiteral",
       "offset": 1411,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Cache\/Storage.swift",
       "kind": "IntegerLiteral",
       "offset": 1447,
       "length": 6,
       "value": "86400"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
       "kind": "IntegerLiteral",
       "offset": 4808,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
       "kind": "IntegerLiteral",
       "offset": 5422,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
       "kind": "Array",
       "offset": 5612,
       "length": 344,
       "value": "[7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20, 4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23, 6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
       "kind": "Array",
       "offset": 6054,
       "length": 1292,
       "value": "[0xd76aa478, 0xe8c7b756, 0x242070db, 0xc1bdceee, 0xf57c0faf, 0x4787c62a, 0xa8304613, 0xfd469501, 0x698098d8, 0x8b44f7af, 0xffff5bb1, 0x895cd7be, 0x6b901122, 0xfd987193, 0xa679438e, 0x49b40821, 0xf61e2562, 0xc040b340, 0x265e5a51, 0xe9b6c7aa, 0xd62f105d, 0x02441453, 0xd8a1e681, 0xe7d3fbc8, 0x21e1cde6, 0xc33707d6, 0xf4d50d87, 0x455a14ed, 0xa9e3e905, 0xfcefa3f8, 0x676f02d9, 0x8d2a4c8a, 0xfffa3942, 0x8771f681, 0x6d9d6122, 0xfde5380c, 0xa4beea44, 0x4bdecfa9, 0xf6bb4b60, 0xbebfbc70, 0x289b7ec6, 0xeaa127fa, 0xd4ef3085, 0x4881d05, 0xd9d4d039, 0xe6db99e5, 0x1fa27cf8, 0xc4ac5665, 0xf4292244, 0x432aff97, 0xab9423a7, 0xfc93a039, 0x655b59c3, 0x8f0ccc92, 0xffeff47d, 0x85845dd1, 0x6fa87e4f, 0xfe2ce6e0, 0xa3014314, 0x4e0811a1, 0xf7537e82, 0xbd3af235, 0x2ad7d2bb, 0xeb86d391]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Utility\/String+MD5.swift",
       "kind": "Array",
       "offset": 7383,
       "length": 48,
       "value": "[0x67452301, 0xefcdab89, 0x98badcfe, 0x10325476]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/ImageBinder.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/ImageBinder.swift",
       "kind": "BooleanLiteral",
       "offset": 2140,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
       "kind": "BooleanLiteral",
       "offset": 3007,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
       "kind": "BooleanLiteral",
       "offset": 4342,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
       "kind": "BooleanLiteral",
       "offset": 4976,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
       "kind": "BooleanLiteral",
       "offset": 5618,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
       "kind": "BooleanLiteral",
       "offset": 6505,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
       "kind": "Array",
       "offset": 6798,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImage.swift",
       "kind": "BooleanLiteral",
       "offset": 6839,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 2022,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 2727,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 3591,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 4357,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/SwiftUI\/KFImageOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 5160,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/ImageSource\/Source.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/ImageSource\/Source.swift",
       "kind": "IntegerLiteral",
       "offset": 2043,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KF.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KF.swift",
       "kind": "BooleanLiteral",
       "offset": 14887,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KF.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KF.swift",
       "kind": "BooleanLiteral",
       "offset": 15560,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 7341,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 7976,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 8342,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 8756,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 9307,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 9941,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 12050,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 13008,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "IntegerLiteral",
       "offset": 15886,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "BooleanLiteral",
       "offset": 17370,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "FloatLiteral",
       "offset": 24674,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "FloatLiteral",
       "offset": 25933,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KFOptionsSetter.swift",
       "kind": "FloatLiteral",
       "offset": 25941,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherError.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherError.swift",
       "kind": "StringLiteral",
       "offset": 15593,
       "length": 29,
       "value": "\"com.tapsdk.Kingfisher.Error\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherManager.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherManager.swift",
       "kind": "Array",
       "offset": 29764,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "Array",
       "offset": 1638,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 16906,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 16954,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 16993,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17032,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17068,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17105,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17145,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17192,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "FloatLiteral",
       "offset": 17302,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17698,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17740,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17782,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17897,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 17946,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/General\/KingfisherOptionsInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 21938,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
       "kind": "StringLiteral",
       "offset": 2945,
       "length": 26,
       "value": "\"CIConstantColorGenerator\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
       "kind": "StringLiteral",
       "offset": 3109,
       "length": 25,
       "value": "\"CISourceOverCompositing\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
       "kind": "StringLiteral",
       "offset": 4133,
       "length": 17,
       "value": "\"CIColorControls\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Filter.swift",
       "kind": "StringLiteral",
       "offset": 4283,
       "length": 18,
       "value": "\"CIExposureAdjust\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
       "kind": "FloatLiteral",
       "offset": 2770,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
       "kind": "FloatLiteral",
       "offset": 2808,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
       "kind": "BooleanLiteral",
       "offset": 2840,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/GIFAnimatedImage.swift",
       "kind": "BooleanLiteral",
       "offset": 2878,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Image.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/Image.swift",
       "kind": "FloatLiteral",
       "offset": 9158,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageDrawing.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageDrawing.swift",
       "kind": "FloatLiteral",
       "offset": 2023,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageDrawing.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageDrawing.swift",
       "kind": "BooleanLiteral",
       "offset": 20021,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
       "kind": "Array",
       "offset": 1724,
       "length": 48,
       "value": "[0x89, 0x50, 0x4E, 0x47, 0x0D, 0x0A, 0x1A, 0x0A]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
       "kind": "Array",
       "offset": 1812,
       "length": 12,
       "value": "[0xFF, 0xD8]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
       "kind": "Array",
       "offset": 1863,
       "length": 6,
       "value": "[0xFF]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageFormat.swift",
       "kind": "Array",
       "offset": 1904,
       "length": 18,
       "value": "[0x47, 0x49, 0x46]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "StringLiteral",
       "offset": 5869,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7080,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7085,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7188,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7193,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7300,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7305,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7414,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 7419,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "FloatLiteral",
       "offset": 9002,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "FloatLiteral",
       "offset": 25629,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "StringLiteral",
       "offset": 30437,
       "length": 43,
       "value": "\"com.tapsdk.Kingfisher.BlackWhiteProcessor\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "FloatLiteral",
       "offset": 33142,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProcessor.swift",
       "kind": "FloatLiteral",
       "offset": 33150,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "StringLiteral",
       "offset": 1356,
       "length": 47,
       "value": "\"com.tapsdk.Kingfisher.ImageDownloader.Process\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "BooleanLiteral",
       "offset": 1667,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "BooleanLiteral",
       "offset": 1696,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "IntegerLiteral",
       "offset": 1724,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "BooleanLiteral",
       "offset": 2408,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "IntegerLiteral",
       "offset": 4806,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "IntegerLiteral",
       "offset": 4844,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Image\/ImageProgressive.swift",
       "kind": "Array",
       "offset": 9283,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDataProcessor.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDataProcessor.swift",
       "kind": "StringLiteral",
       "offset": 1340,
       "length": 47,
       "value": "\"com.tapsdk.Kingfisher.ImageDownloader.Process\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDownloader.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDownloader.swift",
       "kind": "StringLiteral",
       "offset": 4112,
       "length": 9,
       "value": "\"default\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDownloader.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDownloader.swift",
       "kind": "FloatLiteral",
       "offset": 4279,
       "length": 4,
       "value": "15.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDownloader.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImageDownloader.swift",
       "kind": "BooleanLiteral",
       "offset": 5823,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
       "kind": "IntegerLiteral",
       "offset": 4357,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
       "kind": "BooleanLiteral",
       "offset": 5011,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
       "kind": "StringLiteral",
       "offset": 5199,
       "length": 51,
       "value": "\"com.tapsdk.Kingfisher.ImagePrefetcher.pretchQueue\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/ImagePrefetcher.swift",
       "kind": "StringLiteral",
       "offset": 5314,
       "length": 55,
       "value": "\"com.tapsdk.Kingfisher.ImagePrefetcher.requestingQueue\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/RetryStrategy.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/RetryStrategy.swift",
       "kind": "IntegerLiteral",
       "offset": 5372,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/SessionDataTask.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/SessionDataTask.swift",
       "kind": "IntegerLiteral",
       "offset": 2555,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/SessionDataTask.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/SessionDataTask.swift",
       "kind": "BooleanLiteral",
       "offset": 2788,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/SessionDelegate.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Networking\/SessionDelegate.swift",
       "kind": "Dictionary",
       "offset": 1935,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 4499,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "IntegerLiteral",
       "offset": 4610,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 4883,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 5140,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "StringLiteral",
       "offset": 6637,
       "length": 45,
       "value": "\"com.tapsdk.Kingfisher.Animator.preloadQueue\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 6865,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 7054,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 7271,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "FloatLiteral",
       "offset": 13688,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "IntegerLiteral",
       "offset": 13789,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "FloatLiteral",
       "offset": 13852,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "IntegerLiteral",
       "offset": 13903,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 13937,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 13974,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 14011,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "IntegerLiteral",
       "offset": 14152,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "IntegerLiteral",
       "offset": 14595,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "IntegerLiteral",
       "offset": 14724,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "StringLiteral",
       "offset": 15653,
       "length": 45,
       "value": "\"com.tapsdk.Kingfisher.Animator.preloadQueue\""
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "IntegerLiteral",
       "offset": 21513,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/AnimatedImageView.swift",
       "kind": "Array",
       "offset": 22077,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/Indicator.swift",
+      "filePath": "\/Users\/devops\/github-action-runner1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapKingfisher\/Views\/Indicator.swift",
       "kind": "IntegerLiteral",
       "offset": 3909,
       "length": 1,
