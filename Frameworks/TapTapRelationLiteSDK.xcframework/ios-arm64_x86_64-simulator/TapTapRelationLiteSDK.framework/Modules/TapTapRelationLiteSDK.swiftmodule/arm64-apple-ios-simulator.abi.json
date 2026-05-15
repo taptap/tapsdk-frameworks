@@ -6224,1379 +6224,1379 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFTimeUtils.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFTimeUtils.swift",
       "kind": "IntegerLiteral",
       "offset": 246,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFTimeUtils.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFTimeUtils.swift",
       "kind": "IntegerLiteral",
       "offset": 393,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 650,
       "length": 12,
       "value": "\"message_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 692,
       "length": 17,
       "value": "\"send_message_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 770,
       "length": 13,
       "value": "\"game_invite\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 810,
       "length": 13,
       "value": "\"team_invite\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 1167,
       "length": 11,
       "value": "\"client_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 1220,
       "length": 8,
       "value": "\"app_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 1466,
       "length": 11,
       "value": "\"client_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 1520,
       "length": 9,
       "value": "\"team_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgModel.swift",
       "kind": "StringLiteral",
       "offset": 1551,
       "length": 8,
       "value": "\"app_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Router\/TapTapRelationLiteBridge.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Router\/TapTapRelationLiteBridge.swift",
       "kind": "StringLiteral",
       "offset": 251,
       "length": 11,
       "value": "\"user_card\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
       "kind": "BooleanLiteral",
       "offset": 798,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
       "kind": "BooleanLiteral",
       "offset": 851,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
       "kind": "BooleanLiteral",
       "offset": 898,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFAppStateObserver.swift",
       "kind": "BooleanLiteral",
       "offset": 1063,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFInviteSendMessageView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFInviteSendMessageView.swift",
       "kind": "StringLiteral",
       "offset": 796,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFInviteSendMessageView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFInviteSendMessageView.swift",
       "kind": "BooleanLiteral",
       "offset": 8085,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseViewController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 261,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseViewController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 338,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 237,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 468,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 473,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 503,
       "length": 2,
       "value": "48"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 507,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 532,
       "length": 2,
       "value": "48"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 536,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 630,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 635,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 685,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 988,
       "length": 2,
       "value": "76"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 992,
       "length": 2,
       "value": "56"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1012,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1016,
       "length": 2,
       "value": "11"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1040,
       "length": 3,
       "value": "232"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1045,
       "length": 3,
       "value": "268"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1058,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1158,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1162,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1547,
       "length": 2,
       "value": "76"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1552,
       "length": 2,
       "value": "56"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1572,
       "length": 2,
       "value": "39"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1576,
       "length": 2,
       "value": "35"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1587,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1598,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 1652,
       "length": 9,
       "value": "\"#00D9C5\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1698,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1774,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2044,
       "length": 2,
       "value": "76"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2049,
       "length": 2,
       "value": "56"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2069,
       "length": 2,
       "value": "36"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2073,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2084,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2096,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 2176,
       "length": 16,
       "value": "\"ttf_state_game\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2516,
       "length": 2,
       "value": "90"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2521,
       "length": 2,
       "value": "70"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2541,
       "length": 2,
       "value": "35"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2545,
       "length": 2,
       "value": "31"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2556,
       "length": 3,
       "value": "232"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2569,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 2661,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 2714,
       "length": 9,
       "value": "\"#00CDBA\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 3130,
       "length": 29,
       "value": "\"light\/ttf_checkbox_selected\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 3244,
       "length": 54,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 3256,
       "length": 6,
       "value": "\"dark\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 3265,
       "length": 7,
       "value": "\"light\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 3273,
       "length": 1,
       "value": "\"\/ttf_checkbox_unselected\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 3354,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 5933,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
       "kind": "StringLiteral",
       "offset": 774,
       "length": 13,
       "value": "\"sdk_user_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
       "kind": "StringLiteral",
       "offset": 917,
       "length": 15,
       "value": "\"follow_source\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
       "kind": "StringLiteral",
       "offset": 971,
       "length": 16,
       "value": "\"is_deactivated\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFUserModel.swift",
       "kind": "StringLiteral",
       "offset": 1022,
       "length": 12,
       "value": "\"is_deleted\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFEmptyDataView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFEmptyDataView.swift",
       "kind": "StringLiteral",
       "offset": 2963,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFEmptyDataView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFEmptyDataView.swift",
       "kind": "StringLiteral",
       "offset": 2986,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "IntegerLiteral",
       "offset": 193,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "IntegerLiteral",
       "offset": 259,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "IntegerLiteral",
       "offset": 435,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "BooleanLiteral",
       "offset": 702,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "StringLiteral",
       "offset": 798,
       "length": 14,
       "value": "\"created_time\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "StringLiteral",
       "offset": 843,
       "length": 20,
       "value": "\"message_inbox_info\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFFriendCellModel.swift",
       "kind": "StringLiteral",
       "offset": 894,
       "length": 17,
       "value": "\"activity_status\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
       "kind": "StringLiteral",
       "offset": 276,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
       "kind": "BooleanLiteral",
       "offset": 329,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 6,
       "value": "\"user\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
       "kind": "StringLiteral",
       "offset": 625,
       "length": 9,
       "value": "\"is_mute\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFChatMsgHistoryModel.swift",
       "kind": "StringLiteral",
       "offset": 719,
       "length": 14,
       "value": "\"unread_count\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFActivityStatusModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFActivityStatusModel.swift",
       "kind": "StringLiteral",
       "offset": 298,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFActivityStatusModel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Model\/TTFActivityStatusModel.swift",
       "kind": "IntegerLiteral",
       "offset": 395,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
       "kind": "IntegerLiteral",
       "offset": 589,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
       "kind": "BooleanLiteral",
       "offset": 720,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
       "kind": "BooleanLiteral",
       "offset": 820,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
       "kind": "BooleanLiteral",
       "offset": 843,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFBaseInviteController.swift",
       "kind": "BooleanLiteral",
       "offset": 5271,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 252,
       "length": 9,
       "value": "\"#EFF2F5\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 359,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 441,
       "length": 9,
       "value": "\"#1A1C1E\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 543,
       "length": 9,
       "value": "\"#90969C\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 647,
       "length": 9,
       "value": "\"#B8BEC4\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 728,
       "length": 9,
       "value": "\"#F6F8FA\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 815,
       "length": 9,
       "value": "\"#00CDBA\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "StringLiteral",
       "offset": 888,
       "length": 9,
       "value": "\"#E4E8EC\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "FloatLiteral",
       "offset": 1154,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 1210,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 1266,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 1293,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 1466,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "FloatLiteral",
       "offset": 1493,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 2702,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 2721,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 2791,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 2869,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 2887,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "FloatLiteral",
       "offset": 2953,
       "length": 3,
       "value": "1.5"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 3018,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "FloatLiteral",
       "offset": 3035,
       "length": 3,
       "value": "1.5"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 3104,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 3123,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "FloatLiteral",
       "offset": 3140,
       "length": 4,
       "value": "1.25"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 3214,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "BooleanLiteral",
       "offset": 3232,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TapRelationUITheme.swift",
       "kind": "FloatLiteral",
       "offset": 3249,
       "length": 4,
       "value": "1.25"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 202,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 211,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 222,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFPaddingLabel.swift",
       "kind": "IntegerLiteral",
       "offset": 232,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFollowResponse.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFollowResponse.swift",
       "kind": "StringLiteral",
       "offset": 414,
       "length": 13,
       "value": "\"followed_by\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFollowResponse.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFollowResponse.swift",
       "kind": "StringLiteral",
       "offset": 494,
       "length": 13,
       "value": "\"sdk_user_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFRelationService.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFRelationService.swift",
       "kind": "StringLiteral",
       "offset": 327,
       "length": 28,
       "value": "\"\/friend-lite\/v1\/list-by-me\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFRelationService.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFRelationService.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 33,
       "value": "\"\/friend-lite\/v1\/following-by-me\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFRelationService.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFRelationService.swift",
       "kind": "StringLiteral",
       "offset": 427,
       "length": 28,
       "value": "\"\/friend-lite\/v1\/fans-by-me\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFNetworkTarget.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/Network\/TTFNetworkTarget.swift",
       "kind": "Dictionary",
       "offset": 436,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendListResponse.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendListResponse.swift",
       "kind": "StringLiteral",
       "offset": 353,
       "length": 11,
       "value": "\"next_page\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendActivityStatusResponse.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendActivityStatusResponse.swift",
       "kind": "StringLiteral",
       "offset": 316,
       "length": 11,
       "value": "\"next_page\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendActivityStatusResponse.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendActivityStatusResponse.swift",
       "kind": "StringLiteral",
       "offset": 542,
       "length": 17,
       "value": "\"activity_status\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendActivityStatusResponse.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/DataSource\/ResponseModel\/TTFFriendActivityStatusResponse.swift",
       "kind": "StringLiteral",
       "offset": 585,
       "length": 13,
       "value": "\"sdk_user_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/UIColor+Extension.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/UIColor+Extension.swift",
       "kind": "FloatLiteral",
       "offset": 243,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableView.swift",
       "kind": "BooleanLiteral",
       "offset": 624,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/TTFInviteTableView.swift",
       "kind": "BooleanLiteral",
       "offset": 1672,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "Array",
       "offset": 156,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 206,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 244,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 351,
       "length": 25,
       "value": "\"next_continuation_token\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 404,
       "length": 14,
       "value": "\"is_truncated\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "Array",
       "offset": 487,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 547,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 1851,
       "length": 17,
       "value": "\"next_page_token\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "IntegerLiteral",
       "offset": 2285,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 2428,
       "length": 15,
       "value": "\"follow_status\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 2469,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "IntegerLiteral",
       "offset": 2601,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 3972,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4007,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4040,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4075,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4203,
       "length": 9,
       "value": "\"open_id\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4266,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4287,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4306,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 4327,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5485,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5523,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5563,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5602,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 5679,
       "length": 12,
       "value": "\"blocked_by\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "StringLiteral",
       "offset": 5740,
       "length": 13,
       "value": "\"followed_by\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5832,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5856,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5882,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/RelationLiteInternalUserList.swift",
       "kind": "BooleanLiteral",
       "offset": 5907,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleTableView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleTableView.swift",
       "kind": "BooleanLiteral",
       "offset": 202,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleTableView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleTableView.swift",
       "kind": "BooleanLiteral",
       "offset": 238,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFTrackUtils.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/Utils\/TTFTrackUtils.swift",
       "kind": "StringLiteral",
       "offset": 3600,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleView.swift",
       "kind": "BooleanLiteral",
       "offset": 192,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleView.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFBaseRecycleView.swift",
       "kind": "BooleanLiteral",
       "offset": 228,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "StringLiteral",
       "offset": 483,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "StringLiteral",
       "offset": 512,
       "length": 8,
       "value": "\"搜索\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "StringLiteral",
       "offset": 551,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "IntegerLiteral",
       "offset": 755,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "BooleanLiteral",
       "offset": 798,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "StringLiteral",
       "offset": 6520,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "IntegerLiteral",
       "offset": 6543,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFFullScreenTextFieldController.swift",
       "kind": "BooleanLiteral",
       "offset": 6571,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFToastManager.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFToastManager.swift",
       "kind": "BooleanLiteral",
       "offset": 231,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFToastManager.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFToastManager.swift",
       "kind": "Array",
       "offset": 306,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFSearchBar.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Private\/UI\/Widget\/TTFSearchBar.swift",
       "kind": "StringLiteral",
       "offset": 559,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
       "kind": "IntegerLiteral",
       "offset": 465,
       "length": 6,
       "value": "700001"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
       "kind": "IntegerLiteral",
       "offset": 551,
       "length": 6,
       "value": "700002"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
       "kind": "IntegerLiteral",
       "offset": 621,
       "length": 6,
       "value": "700003"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
       "kind": "IntegerLiteral",
       "offset": 779,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
       "kind": "IntegerLiteral",
       "offset": 844,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
       "kind": "Array",
       "offset": 1046,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-2\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
+      "filePath": "\/Users\/devops\/tapsdk-unity-mac-runner-1\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapRelationLite\/Public\/TapTapRelationLite.swift",
       "kind": "IntegerLiteral",
       "offset": 11359,
       "length": 2,
