@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TapTapSDK'
-  s.version          = '4.11.0-beta.1'
+  s.version          = '4.11.0-beta.2'
   s.summary          = 'TapTap SDK 统一接入方式，支持按需引入各个功能模块'
   s.swift_version    = '5.0'
 

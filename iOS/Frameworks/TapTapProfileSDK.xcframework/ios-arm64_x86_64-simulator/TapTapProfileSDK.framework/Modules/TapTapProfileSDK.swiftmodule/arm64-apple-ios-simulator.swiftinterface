@@ -29,8 +29,8 @@ import _SwiftConcurrencyShims
 public struct TapUserProfileModel : Swift.Codable {
   public var friendship: TapTapProfileSDK.TapUserFriendShip?
   public var user: TapTapProfileSDK.TapUserModel
-  public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
 }
 public struct TapUserFriendShip : Swift.Codable {
   public var followd: Swift.Bool?
@@ -43,7 +43,7 @@ public struct TapUserModel : Swift.Codable {
   public var name: Swift.String
   public var avatar: Swift.String
   public var alias: Swift.String?
-  public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
 }
 extension TapTapProfileSDK.TapTapProfile : Swift.Sendable {}

@@ -237,13 +237,15 @@ extension TapTapLeaderboardSDK.TapLeaderboardErrorCode {
   final public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
-@objc @objcMembers final public class TapTapLeaderboardDataResponse : ObjectiveC.NSObject, Swift.Sendable {
+@objc @objcMembers final public class TapTapLeaderboardDataResponse : ObjectiveC.NSObject, Swift.Codable, Swift.Sendable {
   @objc final public let leaderboard: TapTapLeaderboardSDK.TapTapLeaderboardInfo?
   @objc final public let scores: [TapTapLeaderboardSDK.TapTapLeaderboardScore]?
   @objc final public let nextPage: Swift.String
   @objc public init(leaderboard: TapTapLeaderboardSDK.TapTapLeaderboardInfo? = nil, scores: [TapTapLeaderboardSDK.TapTapLeaderboardScore]? = nil, nextPage: Swift.String = "")
   @objc public static func from(internalResponse: TapTapLeaderboardSDK.TapTapLeaderboardScoresResponse) -> TapTapLeaderboardSDK.TapTapLeaderboardDataResponse
   @objc deinit
+  final public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 @objc @_inheritsConvenienceInitializers @objcMembers final public class TapTapLeaderboardGroupResponse : ObjectiveC.NSObject, Swift.Codable, Swift.Sendable {
   @objc final public let groups: [TapTapLeaderboardSDK.TapTapLeaderboardGroupResponse.Group]
