@@ -74,7 +74,10 @@ TAPSDK_EXPORT_API void TapSdkCppSetLogLevel(int32_t logLevel);
  *
  *  commonVariablesGetter 用于获取运行时会发生变化的公参
  *
- * 成功返回 0，失败返回 -1
+ * data_dir 必须由调用方预先创建；SDK 不创建根目录或其父目录。
+ * Windows / macOS 在 data_dir 下管理独占的数字缓存子目录；调用方参数保持不变。
+ * 上述桌面平台缓存不可用时继续使用内存队列发送日志，未发送事件可能随进程退出丢失。
+ * 成功建立调度返回 0，配置无效等启动失败返回 -1；返回 0 不表示历史补报完成。
  */
 TAPSDK_EXPORT_API int TdkOnAppStarted(const char* cfg, CommonVariablesGetter commonVariablesGetter, MemoryDeallocator deallocator);
 
