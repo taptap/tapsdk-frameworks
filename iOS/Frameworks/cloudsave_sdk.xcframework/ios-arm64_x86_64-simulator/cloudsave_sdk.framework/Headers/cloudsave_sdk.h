@@ -127,6 +127,18 @@ TAPSDK_EXPORT_API const char* TapSdkCloudSaveGitCommit();
 TAPSDK_EXPORT_API int TapSdkCloudSaveUpdateAccessToken(const char* token);
 
 /**
+ * Windows/macOS (excluding Tap PC and Miniapp): all archive operations below
+ * require exclusive ownership of the account cache in data_dir/client_id.
+ * Ownership is acquired by the first valid archive operation, not Initialize.
+ * A competing process receives business_code_error with code 400010:
+ * "Access from another process using the same account is prohibited."
+ * Retry the archive operation after the owner logs out, switches account, or exits.
+ * Different accounts or independent data_dir directories do not conflict.
+ * Locks remain held while requests are in flight. Token refresh retains ownership;
+ * an account switch is identified lazily on the next archive operation.
+ */
+
+/**
  * 创建云存档，同步等待服务端返回，然后更新本地存档缓存。不允许并发调用，否则直接抛错
  *
  * @param metadata 存档元信息，JSON格式
