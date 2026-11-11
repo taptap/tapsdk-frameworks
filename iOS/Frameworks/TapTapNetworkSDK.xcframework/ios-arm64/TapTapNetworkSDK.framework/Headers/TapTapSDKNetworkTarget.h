@@ -50,6 +50,9 @@ typedef NS_ENUM(NSInteger, TapTapHTTPBodyDataType) {
 // 需要加到 url 后的 query 列表
 @property (nonatomic, copy) NSDictionary<NSString *, NSString *> * _Nullable queries;
 @property (nonatomic, assign) NSTimeInterval delay;
+/// 单次请求的总超时（秒，包含连接和响应传输）；大于 0 时生效。
+/// 默认 0，沿用共享 Session 的 10 秒配置；不包含重试及调度等待时间。
+@property (nonatomic, assign) NSTimeInterval timeoutInterval;
 @property (nonatomic, assign) TapTapRetryStrategy retryStrategy;
 @property (nonatomic, copy) TapTapNetworkCallBack callback;
 @property (nonatomic, strong) dispatch_queue_t _Nullable callbackQueue;
