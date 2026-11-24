@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TapTapSDK'
-  s.version          = '4.12.0-beta.1'
+  s.version          = '4.11.2-beta.1'
   s.summary          = 'TapTap SDK 统一接入方式，支持按需引入各个功能模块'
   s.swift_version    = '5.0'
 
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.author           = 'TapTap'
   s.source           = { :git => 'https://github.com/taptap/tapsdk-frameworks.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '12.0'
   s.static_framework = true
 
   # 默认不安装任何模块，用户需要显式指定需要的 subspec
@@ -45,6 +45,12 @@ Pod::Spec.new do |s|
     ]
 
     gid.frameworks = ['UIKit', 'Foundation', 'CoreTelephony', 'SystemConfiguration', 'AdSupport', 'GameController']
+    # Static XCFramework resources are not automatically copied by CocoaPods.
+    # Keep each manifest in its own named bundle to avoid filename collisions.
+    gid.resource_bundles = {
+      'TapTapBasicToolsSDKPrivacy' => ["iOS/Frameworks/TapTapBasicToolsSDK.xcframework/ios-arm64/TapTapBasicToolsSDK.framework/PrivacyInfo.xcprivacy"],
+      'THEMISLitePrivacy' => ["iOS/Frameworks/THEMISLite.xcframework/ios-arm64/THEMISLite.framework/PrivacyInfo.xcprivacy"]
+    }
     gid.libraries = ['c++']
     gid.xcconfig = {
       'OTHER_LDFLAGS' => '-lz.1'
@@ -59,6 +65,9 @@ Pod::Spec.new do |s|
   s.subspec 'Core' do |core|
     core.vendored_frameworks = "iOS/Frameworks/TapTapCoreSDK.xcframework"
     core.dependency 'TapTapSDK/Gid'
+    core.resource_bundles = {
+      'TapTapCoreSDKPrivacy' => ["iOS/Frameworks/TapTapCoreSDK.xcframework/ios-arm64/TapTapCoreSDK.framework/PrivacyInfo.xcprivacy"]
+    }
 
     core.frameworks = ['UIKit', 'Foundation', 'CoreTelephony', 'SystemConfiguration', 'AdSupport', 'GameController']
     core.library = 'c++'
@@ -79,6 +88,9 @@ Pod::Spec.new do |s|
 
   # ==================== Achievement 模块 ====================
   s.subspec 'Achievement' do |achievement|
+    achievement.resource_bundles = {
+      'TapTapAchievementSDKPrivacy' => ["iOS/Frameworks/TapTapAchievementSDK.xcframework/ios-arm64/TapTapAchievementSDK.framework/PrivacyInfo.xcprivacy"]
+    }
     achievement.vendored_frameworks = [
       "iOS/Frameworks/TapTapAchievementSDK.xcframework",
       "iOS/Frameworks/TapTapSDKBridgeCore.xcframework"
@@ -89,6 +101,9 @@ Pod::Spec.new do |s|
 
   # ==================== Moment 模块 ====================
   s.subspec 'Moment' do |moment|
+    moment.resource_bundles = {
+      'TapTapMomentSDKPrivacy' => ["iOS/Frameworks/TapTapMomentSDK.xcframework/ios-arm64/TapTapMomentSDK.framework/PrivacyInfo.xcprivacy"]
+    }
     moment.vendored_frameworks = [
       "iOS/Frameworks/TapTapMomentSDK.xcframework",
       "iOS/Frameworks/TapTapSDKBridgeCore.xcframework"
@@ -105,10 +120,16 @@ Pod::Spec.new do |s|
     ]
     compliance.resources = 'iOS/Frameworks/TapTapComplianceResource.bundle'
     compliance.dependency 'TapTapSDK/Login'
+    compliance.resource_bundles = {
+      'TapTapComplianceSDKPrivacy' => ["iOS/Frameworks/TapTapComplianceSDK.xcframework/ios-arm64/TapTapComplianceSDK.framework/PrivacyInfo.xcprivacy"]
+    }
   end
 
   # ==================== CloudSave 模块 ====================
   s.subspec 'CloudSave' do |cloudsave|
+    cloudsave.resource_bundles = {
+      'TapTapCloudSaveSDKPrivacy' => ["iOS/Frameworks/TapTapCloudSaveSDK.xcframework/ios-arm64/TapTapCloudSaveSDK.framework/PrivacyInfo.xcprivacy"]
+    }
     cloudsave.vendored_frameworks = [
       "iOS/Frameworks/TapTapCloudSaveSDK.xcframework",
       "iOS/Frameworks/cloudsave_sdk.xcframework",
@@ -132,6 +153,9 @@ Pod::Spec.new do |s|
 
   # ==================== Profile 模块 ====================
   s.subspec 'Profile' do |profile|
+    profile.resource_bundles = {
+      'TapTapKingfisherPrivacy' => ["iOS/Frameworks/TapTapKingfisher.xcframework/ios-arm64/TapTapKingfisher.framework/PrivacyInfo.xcprivacy"]
+    }
     profile.vendored_frameworks = [
         "iOS/Frameworks/TapTapProfileSDK.xcframework",
         "iOS/Frameworks/TapTapKingfisher.xcframework"
@@ -152,6 +176,9 @@ Pod::Spec.new do |s|
 
   # ==================== Relation 模块 ====================
   s.subspec 'Relation' do |relation|
+    relation.resource_bundles = {
+      'TapTapRelationSDKPrivacy' => ["iOS/Frameworks/TapTapRelationSDK.xcframework/ios-arm64/TapTapRelationSDK.framework/PrivacyInfo.xcprivacy"]
+    }
     relation.vendored_frameworks = [
       "iOS/Frameworks/TapTapRelationSDK.xcframework",
       "iOS/Frameworks/bifrost_sdk.xcframework",

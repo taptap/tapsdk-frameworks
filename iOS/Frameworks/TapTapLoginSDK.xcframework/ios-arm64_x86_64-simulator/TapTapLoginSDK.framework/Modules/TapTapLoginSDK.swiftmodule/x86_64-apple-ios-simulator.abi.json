@@ -4603,6 +4603,13 @@
       },
       {
         "kind": "Import",
+        "name": "TapTapBasicToolsSDK",
+        "printedName": "TapTapBasicToolsSDK",
+        "declKind": "Import",
+        "moduleName": "TapTapLoginSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",

@@ -17592,7 +17592,7 @@
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/Configuration.swift",
       "kind": "Array",
-      "offset": 1534,
+      "offset": 1709,
       "length": 2,
       "value": "[]"
     },
@@ -18124,70 +18124,70 @@
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "BooleanLiteral",
-      "offset": 20615,
+      "offset": 21919,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "BooleanLiteral",
-      "offset": 26824,
+      "offset": 28128,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "BooleanLiteral",
-      "offset": 27802,
+      "offset": 29106,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "StringLiteral",
-      "offset": 28234,
+      "offset": 29538,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "StringLiteral",
-      "offset": 28283,
+      "offset": 29587,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "StringLiteral",
-      "offset": 28328,
+      "offset": 29632,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "StringLiteral",
-      "offset": 28378,
+      "offset": 29682,
       "length": 4,
       "value": "\"11\""
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "StringLiteral",
-      "offset": 28424,
+      "offset": 29728,
       "length": 4,
       "value": "\"12\""
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "StringLiteral",
-      "offset": 28470,
+      "offset": 29774,
       "length": 4,
       "value": "\"13\""
     },
     {
       "filePath": "\/Users\/devops\/github-action-runner\/_work\/tapsdk-monorepo\/tapsdk-monorepo\/iOS\/TapTapSDK\/TapTapCompliance\/Private\/TapComplianceService\/TapComplianceService.swift",
       "kind": "StringLiteral",
-      "offset": 37172,
+      "offset": 38476,
       "length": 35,
       "value": "\"startSecondsCountdownNotification\""
     },

@@ -1,0 +1,62 @@
+// swift-tools-version:5.3
+import PackageDescription
+
+// Generated prototype 4.11.2-beta.1; see spm-artifacts.json for validation inputs.
+let package = Package(
+    name: "TapTapSDK",
+    platforms: [.iOS("12.0")],
+    products: [
+        .library(name: "TapTapCore", targets: ["TapTapCoreSupport"]),
+        .library(name: "TapTapLogin", targets: ["TapTapLoginSupport"]),
+        .library(name: "TapTapAchievement", targets: ["TapTapAchievementSupport"]),
+        .library(name: "TapTapMoment", targets: ["TapTapMomentSupport"]),
+        .library(name: "TapTapCompliance", targets: ["TapTapComplianceSupport"]),
+        .library(name: "TapTapCloudSave", targets: ["TapTapCloudSaveSupport"]),
+        .library(name: "TapTapShare", targets: ["TapTapShareSupport"]),
+        .library(name: "TapTapProfile", targets: ["TapTapProfileSupport"]),
+        .library(name: "TapTapRelationLite", targets: ["TapTapRelationLiteSupport"]),
+        .library(name: "TapTapRelation", targets: ["TapTapRelationSupport"]),
+        .library(name: "TapTapLeaderboard", targets: ["TapTapLeaderboardSupport"]),
+        .library(name: "TapTapRep", targets: ["TapTapRepSupport"]),
+        .library(name: "TapTapBattle", targets: ["TapTapBattleSupport"])
+    ],
+    targets: [
+        .binaryTarget(name: "THEMISLite", path: "iOS/Frameworks/THEMISLite.xcframework"),
+        .binaryTarget(name: "TapOnlineBattleSDK", path: "iOS/Frameworks/TapOnlineBattleSDK.xcframework"),
+        .binaryTarget(name: "TapTapAchievementSDK", path: "iOS/Frameworks/TapTapAchievementSDK.xcframework"),
+        .binaryTarget(name: "TapTapBasicToolsSDK", path: "iOS/Frameworks/TapTapBasicToolsSDK.xcframework"),
+        .binaryTarget(name: "TapTapCloudSaveSDK", path: "iOS/Frameworks/TapTapCloudSaveSDK.xcframework"),
+        .binaryTarget(name: "TapTapComplianceSDK", path: "iOS/Frameworks/TapTapComplianceSDK.xcframework"),
+        .binaryTarget(name: "TapTapCoreSDK", path: "iOS/Frameworks/TapTapCoreSDK.xcframework"),
+        .binaryTarget(name: "TapTapGidSDK", path: "iOS/Frameworks/TapTapGidSDK.xcframework"),
+        .binaryTarget(name: "TapTapKingfisher", path: "iOS/Frameworks/TapTapKingfisher.xcframework"),
+        .binaryTarget(name: "TapTapLeaderboardSDK", path: "iOS/Frameworks/TapTapLeaderboardSDK.xcframework"),
+        .binaryTarget(name: "TapTapLoginSDK", path: "iOS/Frameworks/TapTapLoginSDK.xcframework"),
+        .binaryTarget(name: "TapTapMomentSDK", path: "iOS/Frameworks/TapTapMomentSDK.xcframework"),
+        .binaryTarget(name: "TapTapNetworkSDK", path: "iOS/Frameworks/TapTapNetworkSDK.xcframework"),
+        .binaryTarget(name: "TapTapProfileSDK", path: "iOS/Frameworks/TapTapProfileSDK.xcframework"),
+        .binaryTarget(name: "TapTapRelationLiteSDK", path: "iOS/Frameworks/TapTapRelationLiteSDK.xcframework"),
+        .binaryTarget(name: "TapTapRelationSDK", path: "iOS/Frameworks/TapTapRelationSDK.xcframework"),
+        .binaryTarget(name: "TapTapRepSDK", path: "iOS/Frameworks/TapTapRepSDK.xcframework"),
+        .binaryTarget(name: "TapTapSDKBridgeCore", path: "iOS/Frameworks/TapTapSDKBridgeCore.xcframework"),
+        .binaryTarget(name: "TapTapShareSDK", path: "iOS/Frameworks/TapTapShareSDK.xcframework"),
+        .binaryTarget(name: "bifrost_sdk", path: "iOS/Frameworks/bifrost_sdk.xcframework"),
+        .binaryTarget(name: "cloudsave_sdk", path: "iOS/Frameworks/cloudsave_sdk.xcframework"),
+        .binaryTarget(name: "onlinebattle_sdk", path: "iOS/Frameworks/onlinebattle_sdk.xcframework"),
+        .binaryTarget(name: "tapsdkcorecpp", path: "iOS/Frameworks/tapsdkcorecpp.xcframework"),
+        .target(name: "TapTapGidSupport", dependencies: ["TapTapBasicToolsSDK", "THEMISLite", "TapTapNetworkSDK", "TapTapGidSDK", "tapsdkcorecpp", "TapTapSDKBridgeCore"], resources: [.copy("Resources/TapTapBasicToolsSDKPrivacy.bundle"), .copy("Resources/THEMISLitePrivacy.bundle")], linkerSettings: [.linkedFramework("UIKit"), .linkedFramework("Foundation"), .linkedFramework("CoreTelephony"), .linkedFramework("SystemConfiguration"), .linkedFramework("AdSupport"), .linkedFramework("GameController"), .linkedLibrary("c++"), .linkedLibrary("z")]),
+        .target(name: "TapTapCoreSupport", dependencies: ["TapTapCoreSDK", "TapTapGidSupport"], resources: [.copy("Resources/TapTapCoreSDKPrivacy.bundle")], linkerSettings: [.linkedFramework("UIKit"), .linkedFramework("Foundation"), .linkedFramework("CoreTelephony"), .linkedFramework("SystemConfiguration"), .linkedFramework("AdSupport"), .linkedFramework("GameController"), .linkedLibrary("c++")]),
+        .target(name: "TapTapLoginSupport", dependencies: ["TapTapLoginSDK", "TapTapSDKBridgeCore", "TapTapCoreSupport"], resources: [.copy("Resources/TapTapLoginResource.bundle")], linkerSettings: [.linkedFramework("UIKit"), .linkedFramework("Foundation"), .linkedFramework("CoreTelephony"), .linkedFramework("SystemConfiguration"), .linkedFramework("AdSupport"), .linkedFramework("GameController"), .linkedLibrary("c++")]),
+        .target(name: "TapTapAchievementSupport", dependencies: ["TapTapAchievementSDK", "TapTapSDKBridgeCore", "TapTapLoginSupport"], resources: [.copy("Resources/TapTapAchievementResource.bundle"), .copy("Resources/TapTapAchievementSDKPrivacy.bundle")]),
+        .target(name: "TapTapMomentSupport", dependencies: ["TapTapMomentSDK", "TapTapSDKBridgeCore", "TapTapLoginSupport"], resources: [.copy("Resources/TapTapMomentResource.bundle"), .copy("Resources/TapTapMomentSDKPrivacy.bundle")]),
+        .target(name: "TapTapComplianceSupport", dependencies: ["TapTapComplianceSDK", "TapTapSDKBridgeCore", "TapTapLoginSupport"], resources: [.copy("Resources/TapTapComplianceResource.bundle"), .copy("Resources/TapTapComplianceSDKPrivacy.bundle")]),
+        .target(name: "TapTapCloudSaveSupport", dependencies: ["TapTapCloudSaveSDK", "cloudsave_sdk", "TapTapSDKBridgeCore", "TapTapLoginSupport"], resources: [.copy("Resources/TapTapCloudSaveSDKPrivacy.bundle")], linkerSettings: [.linkedLibrary("z")]),
+        .target(name: "TapTapShareSupport", dependencies: ["TapTapShareSDK", "TapTapCoreSupport"]),
+        .target(name: "TapTapProfileSupport", dependencies: ["TapTapProfileSDK", "TapTapKingfisher", "TapTapLoginSupport"], resources: [.copy("Resources/TapTapProfileResource.bundle"), .copy("Resources/TapTapKingfisherPrivacy.bundle")]),
+        .target(name: "TapTapRelationLiteSupport", dependencies: ["TapTapRelationLiteSDK", "TapTapSDKBridgeCore", "TapTapProfileSupport"], resources: [.copy("Resources/TapTapRelationLiteResource.bundle")]),
+        .target(name: "TapTapRelationSupport", dependencies: ["TapTapRelationSDK", "bifrost_sdk", "TapTapSDKBridgeCore", "TapTapProfileSupport"], resources: [.copy("Resources/TapTapRelationResource.bundle"), .copy("Resources/TapTapRelationSDKPrivacy.bundle")]),
+        .target(name: "TapTapLeaderboardSupport", dependencies: ["TapTapLeaderboardSDK", "TapTapSDKBridgeCore", "TapTapProfileSupport"], resources: [.copy("Resources/TapTapLeaderboardResource.bundle")]),
+        .target(name: "TapTapRepSupport", dependencies: ["TapTapRepSDK", "TapTapSDKBridgeCore", "TapTapCoreSupport"]),
+        .target(name: "TapTapBattleSupport", dependencies: ["onlinebattle_sdk", "TapOnlineBattleSDK", "TapTapLoginSupport"], linkerSettings: [.linkedLibrary("z")])
+    ]
+)

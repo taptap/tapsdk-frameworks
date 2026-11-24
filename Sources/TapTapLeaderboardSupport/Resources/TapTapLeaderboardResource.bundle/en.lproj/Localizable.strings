@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  TapTapLeaderboard
+
+  Created on 2024/12/31.
+*/
+
+// General
+"leaderboard.title" = "Leaderboard";
+"leaderboard.close" = "Close";
+"leaderboard.loading" = "Loading...";
+"leaderboard.error" = "Error";
+"leaderboard.retry" = "Retry";
+"leaderboard.ok" = "OK";
+
+// Leaderboard related
+"leaderboard.rank" = "Rank";
+"leaderboard.score" = "Score";
+"leaderboard.username" = "Username";
+"leaderboard.my_rank" = "My Rank";
+"leaderboard.no_data" = "No Data";
+"leaderboard.submit_success" = "Score submitted successfully";
+"leaderboard.submit_failed" = "Score submission failed";
+
+// Error messages
+"leaderboard.error.not_initialized" = "Leaderboard not initialized, please initialize first";
+"leaderboard.error.not_logged" = "Currently not logged in, please login first";
+"leaderboard.error.region_not_supported" = "Current region not supported, only support China Mainland";
+"leaderboard.error.network_error" = "Network error, please check your connection";
+"leaderboard.error.invalid_request" = "Invalid request";
+"leaderboard.error.access_denied" = "Access denied";
+"leaderboard.error.unknown_error" = "Unknown error";

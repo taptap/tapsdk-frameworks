@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  TapTapLeaderboard
+
+  Created on 2024/12/31.
+*/
+
+// 通用
+"leaderboard.title" = "排行榜";
+"leaderboard.close" = "关闭";
+"leaderboard.loading" = "加载中...";
+"leaderboard.error" = "错误";
+"leaderboard.retry" = "重试";
+"leaderboard.ok" = "确定";
+
+// 排行榜相关
+"leaderboard.rank" = "排名";
+"leaderboard.score" = "分数";
+"leaderboard.username" = "用户名";
+"leaderboard.my_rank" = "我的排名";
+"leaderboard.no_data" = "暂无数据";
+"leaderboard.submit_success" = "分数提交成功";
+"leaderboard.submit_failed" = "分数提交失败";
+
+// 错误信息
+"leaderboard.error.not_initialized" = "排行榜未初始化，请先初始化";
+"leaderboard.error.not_logged" = "当前未登录，请先登录";
+"leaderboard.error.region_not_supported" = "当前区域不支持，仅支持中国大陆";
+"leaderboard.error.network_error" = "网络错误，请检查网络连接";
+"leaderboard.error.invalid_request" = "无效请求";
+"leaderboard.error.access_denied" = "访问被拒绝";
+"leaderboard.error.unknown_error" = "未知错误";

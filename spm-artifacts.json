@@ -1,0 +1,516 @@
+{
+  "prototype": true,
+  "version": "4.11.2-beta.1",
+  "mode": "repository",
+  "minimumIOS": "12.0",
+  "targetRepository": "\u5916\u7f51",
+  "source": {
+    "git": "https://github.com/taptap/tapsdk-frameworks.git",
+    "tag": "4.11.2-beta.1"
+  },
+  "minimumSimulatorIOS": "14.0",
+  "podspecMinimumIOS": "12.0",
+  "products": [
+    "TapTapCore",
+    "TapTapLogin",
+    "TapTapAchievement",
+    "TapTapMoment",
+    "TapTapCompliance",
+    "TapTapCloudSave",
+    "TapTapShare",
+    "TapTapProfile",
+    "TapTapRelationLite",
+    "TapTapRelation",
+    "TapTapLeaderboard",
+    "TapTapRep",
+    "TapTapBattle"
+  ],
+  "manifestSHA256": "5aad64fdcaaa5a0fc4d0b963725b48c5dd235098bd331190ebc61907f2e6be5b",
+  "podspecSHA256": "060f1bcac12c1f85ee691f550c3b41de9bc87c04f7010a327324276e22e0a106",
+  "xcode": "Xcode 16.4\nBuild version 16F6",
+  "binaries": {
+    "THEMISLite": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "12.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "12.0"
+        }
+      ]
+    },
+    "TapOnlineBattleSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapAchievementSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapBasicToolsSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapCloudSaveSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapComplianceSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapCoreSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapGidSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapKingfisher": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapLeaderboardSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapLoginSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapMomentSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapNetworkSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapProfileSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapRelationLiteSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapRelationSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapRepSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "TapTapSDKBridgeCore": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "TapTapShareSDK": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "bifrost_sdk": {
+      "slices": [
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        }
+      ]
+    },
+    "cloudsave_sdk": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "onlinebattle_sdk": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    },
+    "tapsdkcorecpp": {
+      "slices": [
+        {
+          "identifier": "ios-arm64_x86_64-simulator",
+          "architectures": [
+            "arm64",
+            "x86_64"
+          ],
+          "variant": "simulator",
+          "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        }
+      ]
+    }
+  }
+}
