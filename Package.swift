@@ -1,10 +1,10 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-// Generated prototype 4.11.2-beta.1; see spm-artifacts.json for validation inputs.
+// Generated for TapTapSDK 4.11.2-beta.2; see spm-artifacts.json for build metadata.
 let package = Package(
     name: "TapTapSDK",
-    platforms: [.iOS("12.0")],
+    platforms: [.iOS("11.0")],
     products: [
         .library(name: "TapTapCore", targets: ["TapTapCoreSupport"]),
         .library(name: "TapTapLogin", targets: ["TapTapLoginSupport"]),
