@@ -1,11 +1,11 @@
 {
-  "version": "4.11.2-beta.2",
+  "version": "4.11.2",
   "mode": "repository",
   "minimumIOS": "11.0",
   "targetRepository": "\u5916\u7f51",
   "source": {
     "git": "https://github.com/taptap/tapsdk-frameworks.git",
-    "tag": "4.11.2-beta.2"
+    "tag": "4.11.2"
   },
   "minimumSimulatorIOS": "14.0",
   "podspecMinimumIOS": "11.0",
@@ -25,7 +25,7 @@
     "TapTapBattle"
   ],
   "manifestSHA256": "f36a31449f8eaea176286432e9026ab61361feb8fba158d3e60e71c906180840",
-  "podspecSHA256": "6f41154a8f62d993a6a0908d562fba0895c5802512cf2201c10036dae6e987f5",
+  "podspecSHA256": "b8dc6c81edf56a1f5f5fbddd037625a06a52f4864ec417762816db6550eca324",
   "xcode": "Xcode 16.4\nBuild version 16F6",
   "binaries": {
     "THEMISLite": {
@@ -73,6 +73,14 @@
     "TapTapAchievementSDK": {
       "slices": [
         {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
           "identifier": "ios-arm64_x86_64-simulator",
           "architectures": [
             "arm64",
@@ -80,14 +88,6 @@
           ],
           "variant": "simulator",
           "minimumIOS": "14.0"
-        },
-        {
-          "identifier": "ios-arm64",
-          "architectures": [
-            "arm64"
-          ],
-          "variant": "device",
-          "minimumIOS": "11.0"
         }
       ]
     },
@@ -115,14 +115,6 @@
     "TapTapCloudSaveSDK": {
       "slices": [
         {
-          "identifier": "ios-arm64",
-          "architectures": [
-            "arm64"
-          ],
-          "variant": "device",
-          "minimumIOS": "11.0"
-        },
-        {
           "identifier": "ios-arm64_x86_64-simulator",
           "architectures": [
             "arm64",
@@ -130,6 +122,14 @@
           ],
           "variant": "simulator",
           "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
         }
       ]
     },
@@ -157,14 +157,6 @@
     "TapTapCoreSDK": {
       "slices": [
         {
-          "identifier": "ios-arm64",
-          "architectures": [
-            "arm64"
-          ],
-          "variant": "device",
-          "minimumIOS": "11.0"
-        },
-        {
           "identifier": "ios-arm64_x86_64-simulator",
           "architectures": [
             "arm64",
@@ -172,6 +164,14 @@
           ],
           "variant": "simulator",
           "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
         }
       ]
     },
@@ -220,14 +220,6 @@
     "TapTapLeaderboardSDK": {
       "slices": [
         {
-          "identifier": "ios-arm64",
-          "architectures": [
-            "arm64"
-          ],
-          "variant": "device",
-          "minimumIOS": "11.0"
-        },
-        {
           "identifier": "ios-arm64_x86_64-simulator",
           "architectures": [
             "arm64",
@@ -235,6 +227,14 @@
           ],
           "variant": "simulator",
           "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
         }
       ]
     },
@@ -304,6 +304,14 @@
     "TapTapProfileSDK": {
       "slices": [
         {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
+        },
+        {
           "identifier": "ios-arm64_x86_64-simulator",
           "architectures": [
             "arm64",
@@ -311,14 +319,6 @@
           ],
           "variant": "simulator",
           "minimumIOS": "14.0"
-        },
-        {
-          "identifier": "ios-arm64",
-          "architectures": [
-            "arm64"
-          ],
-          "variant": "device",
-          "minimumIOS": "11.0"
         }
       ]
     },
@@ -388,14 +388,6 @@
     "TapTapSDKBridgeCore": {
       "slices": [
         {
-          "identifier": "ios-arm64",
-          "architectures": [
-            "arm64"
-          ],
-          "variant": "device",
-          "minimumIOS": "11.0"
-        },
-        {
           "identifier": "ios-arm64_x86_64-simulator",
           "architectures": [
             "arm64",
@@ -403,6 +395,14 @@
           ],
           "variant": "simulator",
           "minimumIOS": "14.0"
+        },
+        {
+          "identifier": "ios-arm64",
+          "architectures": [
+            "arm64"
+          ],
+          "variant": "device",
+          "minimumIOS": "11.0"
         }
       ]
     },

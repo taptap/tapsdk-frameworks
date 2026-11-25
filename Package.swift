@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-// Generated for TapTapSDK 4.11.2-beta.2; see spm-artifacts.json for build metadata.
+// Generated for TapTapSDK 4.11.2; see spm-artifacts.json for build metadata.
 let package = Package(
     name: "TapTapSDK",
     platforms: [.iOS("11.0")],
